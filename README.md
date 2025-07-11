@@ -23,4 +23,3 @@ A página apresenta:
 
 - HTML5
 - CSS3
-- JavaScript (para o botão de "Reportar Erro")
